@@ -2,13 +2,13 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>Långdans från Sollerön</work-title>
+    <work-title>Laangdans_fraan_Solleroen</work-title>
     </work>
   <identification>
-    <creator type="composer">Trad (Sollerön)</creator>
+    <creator type="composer">Trad (Solleroen)</creator>
     <encoding>
       <software>MuseScore 3.2.3</software>
-      <encoding-date>2020-04-26</encoding-date>
+      <encoding-date>2020-04-29</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -41,10 +41,8 @@
     <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
   <credit page="1">
-    <credit-words default-x="595.44" default-y="1683.36" justify="center" valign="top" font-size="24">Långdans från Sollerön</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="1134.19" default-y="1583.36" justify="right" valign="bottom" font-size="12">Trad (Sollerön)</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
